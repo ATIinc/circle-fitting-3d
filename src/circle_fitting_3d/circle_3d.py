@@ -144,7 +144,7 @@ class Circle3D:
         Parameters
         ----------
         t : Union[np.ndarray, Sequence]
-            .. math:: 0 \le t \le 2\pi
+            .. math:: 0 \\le t \\le 2\\pi
 
         Returns
         -------
