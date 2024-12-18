@@ -10,7 +10,7 @@ from typing import Sequence
 from typing import Union
 
 import numpy as np
-from mpl_toolkits.mplot3d import Axes3D
+from mpl_toolkits.mplot3d import Axes3D # type: ignore
 from skspatial.objects import Circle
 from skspatial.objects import Plane
 from skspatial.objects import Point
